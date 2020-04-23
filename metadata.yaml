@@ -1,0 +1,34 @@
+_repo: 4-12B-Eros_61863
+_version: 0.0.1
+alternative_title: 4 1/2 B, Eros
+creator:
+  author:
+    agent_name: Jameson, Malcolm
+    aliases:
+    - Keith, Colin
+    - Jameson, Malcolm Routh
+    birthdate: 1891
+    deathdate: 1945
+    gutenberg_agent_id: '51457'
+    url: http://www.gutenberg.org/2009/agents/51457
+    wikipedia: https://en.wikipedia.org/wiki/Malcolm_Jameson
+description: ''
+gutenberg_issued: '2020-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61863'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Smuggling -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'False imprisonment -- Fiction'
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: 4-1/2B, Eros
+url: http://www.gutenberg.org/ebooks/61863
