@@ -1,6 +1,9 @@
 _repo: 4-12B-Eros_61863
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 4 1/2 B, Eros
+covers:
+- cover_type: archival
+  image_path: 61863-h/images/cover.jpg
 creator:
   author:
     agent_name: Jameson, Malcolm
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51457
     wikipedia: https://en.wikipedia.org/wiki/Malcolm_Jameson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61863#4-12B-Eros
 gutenberg_issued: '2020-04-18'
 gutenberg_type: Text
 identifiers:
